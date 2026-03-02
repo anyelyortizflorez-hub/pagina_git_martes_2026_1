@@ -44,3 +44,9 @@ h1 { margin: 0; font-size: 2.5rem; color: #8d7b68; }
 
 ul { list-style: none; padding: 0; }
 li { margin: 10px 0; font-size: 1.1rem; }
+
+.series-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
