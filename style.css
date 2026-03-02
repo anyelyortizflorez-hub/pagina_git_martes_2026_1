@@ -19,3 +19,8 @@ header {
 }
 
 h1 { margin: 0; font-size: 2.5rem; color: #8d7b68; }
+
+.container {
+    width: 90%;
+    max-width: 800px;
+}
