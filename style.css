@@ -50,3 +50,10 @@ li { margin: 10px 0; font-size: 1.1rem; }
     flex-wrap: wrap;
     gap: 10px;
 }
+
+.series-grid span {
+    background: #e8e8e4;
+    padding: 8px 15px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+}
